@@ -12,7 +12,7 @@ class BookController extends Controller
      */
     public function index()
     {
-        return Book::paginate(15);
+        return view("book.index", ['books' => Book::simplePaginate(15)]); 
     }
 
     /**
@@ -36,7 +36,7 @@ class BookController extends Controller
      */
     public function show(Book $book)
     {
-        //
+        return view('book.show', ['book' => $book]);
     }
 
     /**

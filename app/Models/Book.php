@@ -71,4 +71,5 @@ class Book extends Model
 	{
 		return $this->belongsToMany(Author::class, 'books_authors_link', 'book','author');
 	}
+
 }

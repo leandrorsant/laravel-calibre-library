@@ -185,4 +185,6 @@ return [
         // 'Example' => App\Facades\Example::class,
     ])->toArray(),
 
+    'calibre_path' => dirname(env('DB_DATABASE', '')),
+
 ];
