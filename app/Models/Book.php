@@ -1,0 +1,62 @@
+<?php
+
+/**
+ * Created by Reliese Model.
+ */
+
+namespace App\Models;
+
+use Carbon\Carbon;
+use Illuminate\Database\Eloquent\Model;
+
+/**
+ * Class Book
+ * 
+ * @property int $id
+ * @property string $title
+ * @property string|null $sort
+ * @property Carbon|null $timestamp
+ * @property Carbon|null $pubdate
+ * @property float $series_index
+ * @property string|null $author_sort
+ * @property string|null $isbn
+ * @property string|null $lccn
+ * @property string $path
+ * @property int $flags
+ * @property string|null $uuid
+ * @property bool|null $has_cover
+ * @property Carbon $last_modified
+ * @property string|null $trial999
+ *
+ * @package App\Models
+ */
+class Book extends Model
+{
+	protected $table = 'books';
+	public $timestamps = false;
+
+	protected $casts = [
+		'timestamp' => 'datetime',
+		'pubdate' => 'datetime',
+		'series_index' => 'float',
+		'flags' => 'int',
+		'has_cover' => 'bool',
+		'last_modified' => 'datetime'
+	];
+
+	protected $fillable = [
+		'title',
+		'sort',
+		'timestamp',
+		'pubdate',
+		'series_index',
+		'author_sort',
+		'isbn',
+		'lccn',
+		'path',
+		'flags',
+		'uuid',
+		'has_cover',
+		'last_modified'
+	];
+}
