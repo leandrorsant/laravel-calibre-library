@@ -8,6 +8,8 @@ namespace App\Models;
 
 use Carbon\Carbon;
 use Illuminate\Database\Eloquent\Model;
+use Illuminate\Database\Eloquent\Relations\BelongsToMany;
+use Illuminate\Database\Eloquent\Relations\HasMany;
 
 /**
  * Class Book
@@ -59,4 +61,14 @@ class Book extends Model
 		'has_cover',
 		'last_modified'
 	];
+
+	public function comments(): HasMany
+	{
+		return $this->hasMany(Comment::class, 'book');
+	}
+
+	public function authors(): BelongsToMany
+	{
+		return $this->belongsToMany(Author::class, 'books_authors_link', 'book','author');
+	}
 }

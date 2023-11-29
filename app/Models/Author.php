@@ -7,6 +7,7 @@
 namespace App\Models;
 
 use Illuminate\Database\Eloquent\Model;
+use Illuminate\Database\Eloquent\Relations\BelongsToMany;
 
 /**
  * Class Author
@@ -28,4 +29,9 @@ class Author extends Model
 		'sort',
 		'link',
 	];
+
+	public function books(): BelongsToMany
+	{
+		return $this->belongsToMany(Author::class, 'books_authors_link', 'author','book');
+	}
 }
