@@ -19,3 +19,7 @@ Route::get('/', function () {
 });
 
 Route::resource('/books',BookController::class);
+
+Route::get('/download/{fileName}', function($fileName){
+    return response()->download('storage/'.base64_decode($fileName));
+})->name('download');

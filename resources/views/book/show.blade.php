@@ -11,6 +11,19 @@
     </div>
     <div class="flex items-center justify-center">
         <div class="w-5/6">
+            @php
+                $files = File::allFiles('storage/calibre_library/'.$book->path);
+            @endphp
+
+            <h3 class="text-center">Available files: </h3>
+            @foreach ( $files as $file )
+                @if($file->getExtension() != 'opf' && $file->getExtension() != 'jpg')
+                <p class="text-center">
+                <a class="max-w-xs" href="{{ route( 'download', ['fileName'=> base64_encode('calibre_library/'.$book->path.'/'.$file->getFilename())] ) }}">{{$file->getFilename()}}</a>
+                </p>
+                @endif
+            @endforeach
+
             @if ($book)
                 <div>{!! $book->comments()->first()['text'] !!}</div>
             @endif

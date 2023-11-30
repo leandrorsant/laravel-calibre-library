@@ -6,11 +6,20 @@
     </x-slot>
 
 <body>
+    <div class="m-2 w-full">
     @forelse ($books as $book)
-        <div class="border-2 border-black"><a href="{{route('books.show', ['book'=>$book])}}">{{ $book->title}}</a></div>
+        
+            <p class="text-center">
+            <a href="{{route('books.show', ['book'=>$book])}}">{{ $book->title}}</a>
+            </p>
+        
     @empty
         <div>no books</div>
     @endforelse
+       <div class="w-full flex items-center justify-center">
+        {{ $books->links()}}
+       </div>
+    </div>
 
-    {{ $books->links()}}
+    
 </x-layout>
