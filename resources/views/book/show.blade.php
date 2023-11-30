@@ -6,7 +6,16 @@
     </x-slot>
 
 <body>
-    @if ($book)
-        <div>{!! $book->comments()->first()['text'] !!}</div>
-    @endif
+    <div class="flex items-center justify-center">
+        <img class="max-w-xs" src="{{ asset('storage/calibre_library/'.$book->path.'/cover.jpg' ) }}">
+    </div>
+    <div class="flex items-center justify-center">
+        <div class="w-5/6">
+            @if ($book)
+                <div>{!! $book->comments()->first()['text'] !!}</div>
+            @endif
+        </div>
+    </div>
+    
+
 </x-layout>
