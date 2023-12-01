@@ -18,7 +18,7 @@
             <h3 class="text-center">Available files: </h3>
             @foreach ( $files as $file )
                 @if($file->getExtension() != 'opf' && $file->getExtension() != 'jpg')
-                <p class="text-center">
+                <p class="text-center font-bold">
                 <a class="max-w-xs" href="{{ route( 'download', ['fileName'=> base64_encode('calibre_library/'.$book->path.'/'.$file->getFilename())] ) }}">{{$file->getFilename()}}</a>
                 </p>
                 @endif

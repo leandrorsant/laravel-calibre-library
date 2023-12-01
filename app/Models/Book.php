@@ -72,4 +72,9 @@ class Book extends Model
 		return $this->belongsToMany(Author::class, 'books_authors_link', 'book','author');
 	}
 
+	public function series(): BelongsToMany
+	{
+		return $this->belongsToMany(Series::class,'books_series_link','book','series');
+	}
+
 }
