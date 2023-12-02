@@ -87,4 +87,9 @@ class Book extends Model
 		return $this->belongsToMany(Language::class,'books_languages_link','book','lang_code');
 	}
 
+	public function publishers(): BelongsToMany
+	{
+		return $this->belongsToMany(Publisher::class,'books_publishers_link','book', 'publisher');
+	}
+
 }

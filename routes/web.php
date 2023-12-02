@@ -2,6 +2,7 @@
 
 use App\Http\Controllers\AuthorController;
 use App\Http\Controllers\BookController;
+use App\Http\Controllers\PublisherController;
 use App\Http\Controllers\SeriesController;
 use Illuminate\Support\Facades\Route;
 
@@ -21,6 +22,7 @@ Route::get('/', [BookController::class, 'index']);
 Route::resource('/books', BookController::class);
 Route::resource('/authors', AuthorController::class);
 Route::resource('/series', SeriesController::class);
+Route::resource('/publishers', PublisherController::class);
 
 Route::get('/download/{fileName}', function($fileName){
     return response()->download('storage/'.base64_decode($fileName));

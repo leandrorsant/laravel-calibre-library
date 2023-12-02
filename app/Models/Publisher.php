@@ -7,6 +7,7 @@
 namespace App\Models;
 
 use Illuminate\Database\Eloquent\Model;
+use Illuminate\Database\Eloquent\Relations\BelongsToMany;
 
 /**
  * Class Publisher
@@ -26,4 +27,9 @@ class Publisher extends Model
 		'name',
 		'sort',
 	];
+
+	public function books(): BelongsToMany
+	{
+		return $this->belongsToMany(Book::class,'books_publishers_link','publisher', 'book');
+	}
 }
