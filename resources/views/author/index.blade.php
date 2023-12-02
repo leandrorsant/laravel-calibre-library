@@ -6,10 +6,10 @@
     </x-slot>
 
 <body>
-    <div class="m-2 w-full">
+    <div class="p-2 w-full">
     @forelse ($authors as $author)
         
-            <p class="text-center">
+            <p class="text-center mb-2">
             <a href="{{route('authors.show', ['author'=> $author ])}}">{{ $author->name}}</a>
             </p>
         
