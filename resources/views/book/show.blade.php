@@ -15,7 +15,7 @@
             @php
                 $files = File::allFiles('storage/calibre_library/'.$book->path);
             @endphp
-            
+
             <h3 class="text-center">Available files: </h3>
             @foreach ( $files as $file )
                 @if($file->getExtension() != 'opf' && $file->getExtension() != 'jpg')
@@ -27,7 +27,7 @@
             
             @if ($book->rating()->first())
                 @php
-                    $rating = $book->rating()->first();
+                    $rating = $book->rating()->first()->rating;
                 @endphp
                     @for ($x=0; $x < $rating ; $x++)
                         <svg xmlns="http://www.w3.org/2000/svg" class="h-7 w-7 inline-block" viewBox="0 0 20 20" fill="currentColor">
