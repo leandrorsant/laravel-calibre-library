@@ -36,7 +36,7 @@ class AuthorController extends Controller
      */
     public function show(Author $author)
     {
-        return view('author.show', ['author' => $author]);
+        return view('author.show', ['author' => $author, 'books'=> $author->books()->simplePaginate(15)]);
     }
 
     /**

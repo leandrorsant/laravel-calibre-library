@@ -36,7 +36,7 @@ class SeriesController extends Controller
      */
     public function show(Series $series)
     {
-        return view('series.show', ['series' => $series]);
+        return view('series.show', ['series' => $series, 'books'=> $series->books()->simplePaginate(15)]);
     }
 
     /**
