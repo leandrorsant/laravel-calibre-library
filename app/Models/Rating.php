@@ -7,6 +7,7 @@
 namespace App\Models;
 
 use Illuminate\Database\Eloquent\Model;
+use Illuminate\Database\Eloquent\Relations\BelongsToMany;
 
 /**
  * Class Rating
@@ -28,4 +29,9 @@ class Rating extends Model
 	protected $fillable = [
 		'rating'
 	];
+
+	public function books(): BelongsToMany
+	{
+		return $this->belongsToMany(Book::class, 'books_ratings_link','rating', 'lang_code');
+	}
 }

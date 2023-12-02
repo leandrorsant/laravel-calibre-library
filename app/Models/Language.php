@@ -7,6 +7,7 @@
 namespace App\Models;
 
 use Illuminate\Database\Eloquent\Model;
+use Illuminate\Database\Eloquent\Relations\BelongsToMany;
 
 /**
  * Class Language
@@ -25,4 +26,9 @@ class Language extends Model
 	protected $fillable = [
 		'lang_code',
 	];
+
+	public function books(): BelongsToMany
+	{
+		return $this->belongsToMany(Book::class,'books_languages_link','lang_code', 'book');
+	}
 }
