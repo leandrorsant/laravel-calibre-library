@@ -92,4 +92,9 @@ class Book extends Model
 		return $this->belongsToMany(Publisher::class,'books_publishers_link','book', 'publisher');
 	}
 
+	public function data(): HasMany
+	{
+		return $this->hasMany(Data::class,'book');
+	}
+
 }

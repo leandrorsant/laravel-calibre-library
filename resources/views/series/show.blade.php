@@ -31,6 +31,4 @@
             {{ $books->links()}}
         </div>
     </div>
-    
-
 </x-layout>

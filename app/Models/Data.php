@@ -7,6 +7,8 @@
 namespace App\Models;
 
 use Illuminate\Database\Eloquent\Model;
+use Illuminate\Database\Eloquent\Relations\BelongsTo;
+use Illuminate\Database\Eloquent\Relations\HasOne;
 
 /**
  * Class Data
@@ -34,4 +36,9 @@ class Data extends Model
 		'uncompressed_size',
 		'name',
 	];
+
+	public function book(): BelongsTo
+	{
+		return $this->belongsTo(Book::class, 'book');
+	}
 }
