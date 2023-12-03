@@ -10,6 +10,7 @@ use Carbon\Carbon;
 use Illuminate\Database\Eloquent\Model;
 use Illuminate\Database\Eloquent\Relations\BelongsToMany;
 use Illuminate\Database\Eloquent\Relations\HasMany;
+use Illuminate\Database\Eloquent\Relations\HasOne;
 
 /**
  * Class Book
@@ -95,6 +96,11 @@ class Book extends Model
 	public function data(): HasMany
 	{
 		return $this->hasMany(Data::class,'book');
+	}
+
+	public function conversionOption(): HasOne
+	{
+		return $this->hasOne(ConversionOption::class, 'book');
 	}
 
 }
