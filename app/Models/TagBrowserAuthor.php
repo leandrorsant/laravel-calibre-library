@@ -35,6 +35,5 @@ class TagBrowserAuthor extends Model
 		'count',
 		'avg_rating',
 		'sort',
-		'trial022'
 	];
 }

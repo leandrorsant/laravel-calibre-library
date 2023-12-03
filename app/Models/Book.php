@@ -78,6 +78,11 @@ class Book extends Model
 		return $this->belongsToMany(Series::class,'books_series_link','book','series');
 	}
 
+	public function tags(): BelongsToMany
+	{
+		return $this->belongsToMany(Tag::class,'books_tags_link','book','tag');
+	}
+
 	public function rating(): BelongsToMany
 	{
 		return $this->belongsToMany(Rating::class,'books_ratings_link','book', 'rating');

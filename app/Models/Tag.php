@@ -7,6 +7,7 @@
 namespace App\Models;
 
 use Illuminate\Database\Eloquent\Model;
+use Illuminate\Database\Eloquent\Relations\BelongsToMany;
 
 /**
  * Class Tag
@@ -24,4 +25,9 @@ class Tag extends Model
 	protected $fillable = [
 		'name',
 	];
+
+	public function books(): BelongsToMany
+	{
+		return $this->belongsToMany(Book::class,'books_tags_link','tag','book');
+	}
 }
