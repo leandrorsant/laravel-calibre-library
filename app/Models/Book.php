@@ -103,4 +103,8 @@ class Book extends Model
 		return $this->hasOne(ConversionOption::class, 'book');
 	}
 
+	public function identifiers(): HasMany
+	{
+		return $this->hasMany(Identifier::class,'book');
+	}
 }
