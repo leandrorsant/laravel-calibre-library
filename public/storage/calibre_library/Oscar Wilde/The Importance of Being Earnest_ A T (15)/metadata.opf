@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">15</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b9356a1c-3a0f-479b-88eb-5cefe4b68515</dc:identifier>
+        <dc:title>The Importance of Being Earnest: A Trivial Comedy for Serious People</dc:title>
+        <dc:creator opf:file-as="Wilde, Oscar" opf:role="aut">Oscar Wilde</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.42.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-01-01T16:39:44.716749+00:00</dc:date>
+        <dc:description>&lt;p&gt;Set in "The Present" (1895) in London, the play opens with Algernon Moncrieff, an idle young gentleman, receiving his best friend, whom he knows as Ernest Worthing. Ernest has come from the country to propose to Algernon's cousin, Gwendolen. Algernon, however, refuses his consent until Ernest explains why his cigarette case bears the inscription, "From little Cecily, with her fondest love to her dear Uncle Jack." "Ernest" is forced to admit to living a double life. In the country, he assumes a serious attitude for the benefit of his young ward, Cecily, and goes by the name of John (or Jack), while pretending that he must worry about a wastrel younger brother named Ernest in London. In the city, meanwhile, he assumes the identity of the libertine Ernest. Algernon confesses a similar deception: he pretends to have an invalid friend named Bunbury in the country, whom he can "visit" whenever he wishes to avoid an unwelcome social obligation. Jack, however, refuses to tell Algernon the location of his country estate. Gwendolen and her formidable mother Lady Bracknell now call on Algernon. As Algernon distracts Lady Bracknell in another room, Jack proposes to Gwendolen. She accepts, but seems to love him very largely for his professed name of Ernest; Jack resolves to himself to be rechristened "Ernest". Lady Bracknell discovers them and interrogates Jack as a prospective suitor. Horrified that he was adopted after being discovered as a baby in a handbag at Victoria Station, she refuses him and forbids further contact. Gwendolen, however, manages covertly to swear her undying love. As Jack gives her his address in the country, Algernon surreptitiously notes it on the cuff of his sleeve; Jack's revelation of his pretty and wealthy young ward has motivated Algernon to meet her. Act II moves to Jack's country house, the Manor House in Woolton, Hertfordshire, where Cecily is found studying with her governess, Miss Prism. Algernon arrives, pretending to be Ernest Worthing, and soon charms Cecily. Cecily has long been fascinated by Uncle Jack's hitherto absent black sheep younger brother, and is thus predisposed to fall for Algernon in his role of Ernest. So Algernon, too, plans for the rector, Dr. Chasuble, to rechristen him "Ernest". Jack, meanwhile, has decided to put his double life behind him. He arrives in full mourning and announces Ernest's death in Paris of a severe chill, a story undermined by Algernon's presence in the guise of Ernest. Gwendolen now arrives, having run away from home. She meets Cecily in the temporary absence of the two men, and each indignantly declares that she is the one engaged to "Ernest". When Jack and Algernon reappear, their deceptions are exposed. Act III moves inside to the drawing room. Lady Bracknell arrives in pursuit of her daughter and is surprised to be told that Algernon and Cecily are engaged. The size of Cecily's trust fund soon dispels her initial doubts over Cecily's suitability as a wife for her nephew. However, stalemate develops when Jack refuses his consent to the marriage of his ward to Algernon until Lady Bracknell consents to his own union with Gwendolen. The impasse is broken by the return of Miss Prism. Lady Bracknell recognises the governess: twenty-eight years earlier, as a family nursemaid, she took a baby boy for a walk in a perambulator (baby carriage) and never returned. Miss Prism explains that she had abstractedly put the manuscript of a novel she was writing in the perambulator, and the baby in a handbag, which she had left at Victoria Station. Jack produces the very same handbag, showing that he is the lost baby, the elder son of Lady Bracknell's late sister, and thus indeed Algernon's older brother – and suddenly eligible as a suitor for Gwendolen.&lt;/p&gt;</dc:description>
+        <dc:publisher>The Floating Press</dc:publisher>
+        <dc:identifier opf:scheme="GOOGLE">56iXqvfB8FEC</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9781475263312</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">1475263317</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Comedies</dc:subject>
+        <dc:subject>Foundlings -- Drama</dc:subject>
+        <dc:subject>General</dc:subject>
+        <dc:subject>Identity (Psychology) -- Drama</dc:subject>
+        <dc:subject>England -- Drama</dc:subject>
+        <dc:subject>Drama</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Oscar Wilde&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2023-12-05T16:36:22.991045+00:00"/>
+        <meta name="calibre:title_sort" content="Importance of Being Earnest: A Trivial Comedy for Serious People, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">17</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">8aac36e4-c670-4154-9551-fc013d731268</dc:identifier>
+        <dc:title>The Picture of Dorian Gray (The Original 1890 Uncensored Edition + the Expanded and Revised 1891 Edition)</dc:title>
+        <dc:creator opf:file-as="Wilde, Oscar" opf:role="aut">Oscar Wilde</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.42.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2013-09-20T16:38:29.659345+00:00</dc:date>
+        <dc:description>&lt;p&gt;The Picture of Dorian Gray, the only novel by Oscar Wilde, was first published in 1890. A substantially revised and expanded edition was published in April 1891. For the new edition, Wilde revised the content of the novel's existing chapters, divided the final chapter into two chapters, and created six entirely new additional chapters. Whereas the original edition of the novel contains 13 chapters, the revised edition of the novel contains 20 chapters. The 1891 version was expanded from 13 to 20 chapters, but also toned down, particularly in some of its overt homoerotic aspects. Also, chapters 3, 5, and 15 to 18 are entirely new in the 1891 version, and chapter 13 from the first edition is split in two (becoming chapters 19 and 20).   The novel tells of a young man named Dorian Gray, the subject of a painting by artist Basil Hallward. Dorian is selected for his remarkable physical beauty, and Basil becomes strongly infatuated with Dorian, believing that his beauty is responsible for a new mode of art. The Picture of Dorian Gray is considered one of the last works of classic gothic horror fiction with a strong Faustian theme. It deals with the artistic movement of the decadents, and homosexuality, both of which caused some controversy when the book was first published. However, in modern times, the book has been referred to as "one of the modern classics of Western literature”.      Oscar Wills Wilde (1854 – 1900) was an Irish writer and poet. After writing in different forms throughout the 1880s, he became one of London's most popular playwrights in the early 1890s. Today he is remembered for his epigrams, his only novel (The Picture of Dorian Gray), his plays, and the circumstances of his imprisonment and early death.&lt;/p&gt;</dc:description>
+        <dc:publisher>e-artnow</dc:publisher>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/174</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">pO5BBAAAQBAJ</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9788074849121</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Occult &amp; Supernatural</dc:subject>
+        <dc:subject>London (England) -- History -- 1800-1950 -- Fiction</dc:subject>
+        <dc:subject>English; Irish; Scottish; Welsh</dc:subject>
+        <dc:subject>Fiction</dc:subject>
+        <dc:subject>Appearance (Philosophy) -- Fiction</dc:subject>
+        <dc:subject>General</dc:subject>
+        <dc:subject>Paranormal fiction</dc:subject>
+        <dc:subject>Portraits -- Fiction</dc:subject>
+        <dc:subject>Literary Collections</dc:subject>
+        <dc:subject>European</dc:subject>
+        <dc:subject>Mystery &amp; Detective</dc:subject>
+        <dc:subject>Didactic fiction</dc:subject>
+        <dc:subject>1837-1901 -- Fiction</dc:subject>
+        <dc:subject>Conduct of life -- Fiction</dc:subject>
+        <dc:subject>Great Britain -- History -- Victoria</dc:subject>
+        <dc:subject>Supernatural -- Fiction</dc:subject>
+        <dc:subject>Classics</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Oscar Wilde&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-12-05T16:36:23.586047+00:00"/>
+        <meta name="calibre:title_sort" content="Picture of Dorian Gray (The Original 1890 Uncensored Edition + the Expanded and Revised 1891 Edition), The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

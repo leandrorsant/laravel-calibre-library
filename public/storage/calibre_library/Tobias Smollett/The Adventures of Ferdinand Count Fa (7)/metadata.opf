@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">7</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">011babb5-d5a1-4fc3-940a-6285d438c6f9</dc:identifier>
+        <dc:title>The Adventures of Ferdinand Count Fathom (Complete)</dc:title>
+        <dc:creator opf:file-as="Smollett, Tobias" opf:role="aut">Tobias Smollett</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.42.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2023-09-22T16:43:10+00:00</dc:date>
+        <dc:description>&lt;p&gt;'The Adventures of Ferdinand Count Fathom' is a novel written by Tobias Smollett and published in 1753. The story follows the life and exploits of the cunning and manipulative protagonist, Ferdinand Count Fathom. Smollett, known for his satirical and picaresque style, employs his unique wit and irony to create a darkly humorous and morally ambiguous tale. The narrative begins by introducing the young and ambitious Fathom, who sets out on a journey to London in search of fame and fortune. As the plot unfolds, the readers are taken on a tumultuous ride through Fathom's various encounters and misadventures, filled with deceit, treachery, and elaborate schemes. Fathom is portrayed as a master manipulator, using his wit and charm to exploit and deceive those around him. He effortlessly adopts different identities and employs a range of tactics to achieve his goals. Smollett presents a complex character study, raising questions about the nature of human morality and revealing the darker side of human nature. Throughout the novel, Smollett delves into themes such as greed, ambition, social status, and the corrupt nature of society. He exposes the hypocrisy and naivety of the upper class while simultaneously critiquing the lower class's vulnerability to manipulation. The author's sharp social commentary is evident in his portrayal of the flaws and vices of the characters, providing a scathing critique of 18th-century society. "The Adventures of Ferdinand Count Fathom" offers a gripping and entertaining read, seamlessly blending adventure, suspense, and wit. Smollett's engaging storytelling and colorful characters make for a compelling narrative that keeps readers captivated from start to finish. Whether seen as a cautionary tale or a reflection of the human condition, this novel stands as a testament to Smollett's skill in crafting a thought-provoking and engaging work of literature.&lt;/p&gt;</dc:description>
+        <dc:publisher>Aegitas</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780369410214</dc:identifier>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/6761</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">mIzYEAAAQBAJ</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Action &amp; Adventure</dc:subject>
+        <dc:subject>Historical</dc:subject>
+        <dc:subject>Fiction</dc:subject>
+        <dc:subject>General</dc:subject>
+        <dc:subject>Gothic fiction</dc:subject>
+        <dc:subject>Satire</dc:subject>
+        <dc:subject>Adventure stories</dc:subject>
+        <dc:subject>Classics</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Tobias Smollett&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-12-05T16:36:21+00:00"/>
+        <meta name="calibre:title_sort" content="Adventures of Ferdinand Count Fathom (Complete), The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

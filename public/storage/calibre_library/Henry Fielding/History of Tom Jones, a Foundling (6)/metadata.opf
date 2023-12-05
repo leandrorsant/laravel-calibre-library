@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">6</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">669fc8f3-9cce-4724-92d0-ad77ec05699a</dc:identifier>
+        <dc:title>History of Tom Jones, a Foundling</dc:title>
+        <dc:creator opf:file-as="Fielding, Henry" opf:role="aut">Henry Fielding</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.42.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-08-07T16:43:40.451991+00:00</dc:date>
+        <dc:description>&lt;p&gt;This carefully crafted ebook: "The History of Tom Jones, a Foundling" is formatted for your eReader with a functional and detailed table of contents.  Tom Jones or, The History of Tom Jones, a Foundling is a comic novel by English playwright and novelist Henry Fielding. It is both a Bildungsroman and a picaresque novel. It was first published on 28 February 1749 in London, and is among the earliest English prose works to be classified as a novel. It is the earliest novel mentioned by W. Somerset Maugham in his 1948 book Great Novelists and Their Novels among the ten best novels of the world. The novel is highly organized, despite its length. Samuel Taylor Coleridge argued that it has one of the "three most perfect plots ever planned.&lt;/p&gt;
+
+&lt;p&gt;" Tom Jones is generally regarded as Fielding's greatest book and as a very influential English novel.&lt;/p&gt;</dc:description>
+        <dc:publisher>e-artnow</dc:publisher>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/6593</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">tM-SDwAAQBAJ</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9788026895718</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Foundlings -- Fiction</dc:subject>
+        <dc:subject>Fiction</dc:subject>
+        <dc:subject>Identity (Psychology) -- Fiction</dc:subject>
+        <dc:subject>Topic</dc:subject>
+        <dc:subject>Humor</dc:subject>
+        <dc:subject>Cultural; Ethnic &amp; Regional</dc:subject>
+        <dc:subject>Satire</dc:subject>
+        <dc:subject>England -- Fiction</dc:subject>
+        <dc:subject>Bildungsromans</dc:subject>
+        <dc:subject>Young men -- Fiction</dc:subject>
+        <dc:subject>Humorous stories</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Henry Fielding&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-12-05T16:36:20.727304+00:00"/>
+        <meta name="calibre:title_sort" content="History of Tom Jones, a Foundling"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

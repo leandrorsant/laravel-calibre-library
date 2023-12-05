@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">5</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">4927d1a9-dba7-45d2-b220-95ffb75bfba1</dc:identifier>
+        <dc:title>Frankenstein; Or, the Modern Prometheus (Illustrated)</dc:title>
+        <dc:creator opf:file-as="Shelley, Mary Wollstonecraft" opf:role="aut">Mary Wollstonecraft Shelley</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.42.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-06-29T16:44:08.164507+00:00</dc:date>
+        <dc:description>&lt;p&gt;This illustrated edition of "Frankenstein; Or, The Modern Prometheus" includes: Illustrations of objects and places mentioned in the novel. Frankenstein; or, The Modern Prometheus is an 1818 novel written by English author Mary Shelley. Frankenstein tells the story of Victor Frankenstein, a young scientist who creates a sapient creature in an unorthodox scientific experiment. Shelley started writing the story when she was 18, and the first edition was published anonymously in London on 1 January 1818, when she was 20.&lt;/p&gt;</dc:description>
+        <dc:publisher>coolaij</dc:publisher>
+        <dc:identifier opf:scheme="GOOGLE">cRrGEAAAQBAJ</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9783987561535</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Monsters -- Fiction</dc:subject>
+        <dc:subject>Frankenstein</dc:subject>
+        <dc:subject>Victor (Fictitious character) -- Fiction</dc:subject>
+        <dc:subject>Fiction</dc:subject>
+        <dc:subject>Gothic fiction</dc:subject>
+        <dc:subject>Science fiction</dc:subject>
+        <dc:subject>Scientists -- Fiction</dc:subject>
+        <dc:subject>Frankenstein's monster (Fictitious character) -- Fiction</dc:subject>
+        <dc:subject>Horror</dc:subject>
+        <dc:subject>Horror tales</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Mary Wollstonecraft Shelley&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-12-05T16:36:20.444456+00:00"/>
+        <meta name="calibre:title_sort" content="Frankenstein; Or, the Modern Prometheus (Illustrated)"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

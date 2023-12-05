@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a7895b1b-c013-48f5-bd58-b9eb7c280482</dc:identifier>
+        <dc:title>The yes men of Venus</dc:title>
+        <dc:creator opf:file-as="Goulart, Ron" opf:role="aut">Ron Goulart</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.42.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2023-12-03T03:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/72305</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Ron Goulart&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-12-05T16:36:19.287460+00:00"/>
+        <meta name="calibre:title_sort" content="yes men of Venus, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">4</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">2c08ef60-34de-461e-aec5-116c8bf24a63</dc:identifier>
+        <dc:title>Little Women (Annotated): Or Meg, Jo, Beth and Amy</dc:title>
+        <dc:creator opf:file-as="Alcott, Louisa May" opf:role="aut">Louisa May Alcott</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.42.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-11-15T16:44:31.126177+00:00</dc:date>
+        <dc:description>&lt;p&gt;Little Women or, Meg, Jo, Beth and Amy is a novel by American author Louisa May Alcott (1832-1888). Written and published in two parts in 1868 and 1869, the novel follows the lives of four sisters -- Meg, Jo, Beth and Amy March -- and is loosely based on the author's childhood experiences with her three sisters. The first part of the book was an immediate commercial and critical success and prompted the composition of the book's second part, also a huge success. Both parts were first published as a single volume in 1880. The book is an unquestioned American classic.&lt;/p&gt;
+
+&lt;p&gt;This edition includes an author biography.&lt;/p&gt;</dc:description>
+        <dc:publisher>Independently Published</dc:publisher>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/37106</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">I28NzgEACAAJ</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9798556941175</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Domestic fiction</dc:subject>
+        <dc:subject>Mothers and daughters -- Fiction</dc:subject>
+        <dc:subject>Sisters -- Fiction</dc:subject>
+        <dc:subject>New England -- Fiction</dc:subject>
+        <dc:subject>Family life -- New England -- Fiction</dc:subject>
+        <dc:subject>Young women -- Fiction</dc:subject>
+        <dc:subject>Autobiographical fiction</dc:subject>
+        <dc:subject>Bildungsromans</dc:subject>
+        <dc:subject>March family (Fictitious characters) -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Louisa May Alcott&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-12-05T16:36:20.244457+00:00"/>
+        <meta name="calibre:title_sort" content="Little Women (Annotated): Or Meg, Jo, Beth and Amy"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

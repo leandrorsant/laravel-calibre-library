@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">8</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">440fac33-d86a-4cd8-af9c-42d812564de1</dc:identifier>
+        <dc:title>The Adventures of Roderick Random</dc:title>
+        <dc:creator opf:file-as="Smollett, Tobias" opf:role="aut">Tobias Smollett</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.42.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-02-01T16:42:49.429592+00:00</dc:date>
+        <dc:description>&lt;p&gt;This is the definitive scholarly edition of Tobias Smollett's first novel, widely regarded as one of his two masterpieces, the other being The Expedition of Humphry Clinker. Roderick Random was also, in its time, the chief rival to Henry Fielding's comic novel Tom Jones. Surging with verbal, sexual, and martial energy, The Adventures of Roderick Random opens a window on life, love, and war in the eighteenth century. The hero battles his way from poverty and neglect to make his mark as a doctor, writer, fighter, and lover. His adventures take us across the world, from England and France to the Caribbean, Africa, and Latin America. One of the first truly global novels, it casts light on nearly every aspect of its time--imperialism, gender relations, slavery, urban life, colonial warfare, commerce, politics, the professions, high society, and the Hogarthian underworld. Complete with illustrations and comprehensive annotations, this is the first edition to include Smollett's long-forgotten antiwar pamphlet, An Account of the Expedition against Carthagene in the West Indies, which was drawn from his own war experience and on which key sections of the novel are based. The editors also provide a detailed biographical and historical introduction, based on the most recent scholarship, mapping the novel's enormous impact in its own time and its influence on the history of literature over the centuries since.&lt;/p&gt;</dc:description>
+        <dc:publisher>University of Georgia Press</dc:publisher>
+        <dc:identifier opf:scheme="GOOGLE">ofo7AQAAQBAJ</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9780820341286</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Scots -- England -- Fiction</dc:subject>
+        <dc:subject>Classics</dc:subject>
+        <dc:subject>Fiction</dc:subject>
+        <dc:subject>Picaresque literature</dc:subject>
+        <dc:subject>England -- Fiction</dc:subject>
+        <dc:subject>Sea stories</dc:subject>
+        <dc:subject>Impressment -- Fiction</dc:subject>
+        <dc:subject>Warships -- Fiction</dc:subject>
+        <dc:subject>Rogues and vagabonds -- Fiction</dc:subject>
+        <dc:subject>Sailors -- Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Tobias Smollett&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-12-05T16:36:21.243305+00:00"/>
+        <meta name="calibre:title_sort" content="Adventures of Roderick Random, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

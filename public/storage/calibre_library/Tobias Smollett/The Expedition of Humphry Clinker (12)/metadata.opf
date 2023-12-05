@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">12</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">cc3ef912-b471-4359-ba36-cdccaec4bbac</dc:identifier>
+        <dc:title>The Expedition of Humphry Clinker</dc:title>
+        <dc:creator opf:file-as="Smollett, Tobias" opf:role="aut">Tobias Smollett</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.42.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2023-09-22T16:40:56.539483+00:00</dc:date>
+        <dc:description>&lt;p&gt;'The Expedition of Humphry Clinker' is an epistolary novel written by Tobias Smollett and published in 1771. Set in the 18th century, the story takes the form of a series of letters exchanged between various characters, providing a unique and intimate glimpse into their lives, travels, and experiences. The novel revolves around the adventures of the eccentric and endearing Humphry Clinker, a servant in the Bramble family, along with his employers and their acquaintances. The narrative unfolds as the Bramble family embarks on a journey across England, Scotland, and Wales, encountering a colorful cast of characters along the way. As the story progresses, the reader is treated to a delightful and humorous exploration of the social, cultural, and political landscape of 18th-century Britain. Through the epistolary format, Smollett offers a satirical commentary on various aspects of society, including class distinctions, social customs, and the foibles of the upper class. The letters also provide insightful observations on the cities, towns, and countryside visited during the journey, allowing the reader to immerse themselves in the rich tapestry of Georgian England. "The Expedition of Humphry Clinker" showcases Smollett's skill in creating memorable and multi-dimensional characters. Each correspondent, from the quirky spinster Tabitha Bramble to the witty and observant Matthew Bramble, brings their own unique voice and perspective to the narrative. Their interactions, conflicts, and personal growth form the emotional core of the novel, while their individual stories intertwine to create a captivating and interconnected web. Beyond its comedic and satirical elements, the novel also touches on pressing social issues of the time, including the treatment of servants, the experiences of women in society, and the impact of industrialization. Through his characters and their experiences, Smollett humanizes these themes, offering a nuanced exploration of the complexities of life in 18th-century Britain. "The Expedition of Humphry Clinker" stands as a beloved classic, celebrated for its wit, lively characters, and astute social commentary. Smollett's adept storytelling and mastery of the epistolary form make for a rich and engaging read, offering readers both entertainment and insight into the society of the time. It remains a testament to Smollett's enduring legacy as a preeminent satirist and storyteller of the 18th century.&lt;/p&gt;</dc:description>
+        <dc:publisher>Aegitas</dc:publisher>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/2160</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">mozYEAAAQBAJ</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9780369410238</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Action &amp; Adventure</dc:subject>
+        <dc:subject>Historical</dc:subject>
+        <dc:subject>Fiction</dc:subject>
+        <dc:subject>General</dc:subject>
+        <dc:subject>Travelers -- Fiction</dc:subject>
+        <dc:subject>Satire</dc:subject>
+        <dc:subject>Epistolary fiction</dc:subject>
+        <dc:subject>Great Britain -- Fiction</dc:subject>
+        <dc:subject>Classics</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Tobias Smollett&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-12-05T16:36:22.225049+00:00"/>
+        <meta name="calibre:title_sort" content="Expedition of Humphry Clinker, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">14</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ee0fdad9-60de-4aff-91ed-d00054bf2a6a</dc:identifier>
+        <dc:title>My Life: Authorized Translation From the German; Volume 1</dc:title>
+        <dc:creator opf:file-as="Wagner, Richard" opf:role="aut">Richard Wagner</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.42.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2023-07-18T16:40:12.594267+00:00</dc:date>
+        <dc:description>&lt;p&gt;An autobiography of the famous composer Richard Wagner. The book provides insights into his life, inspirations, and creation of some of the most renowned operas. It is an essential read for music enthusiasts and those interested in the creative process of one of the most influential composers of the 19th century.&lt;/p&gt;
+
+&lt;p&gt;This work has been selected by scholars as being culturally important, and is part of the knowledge base of civilization as we know it.&lt;/p&gt;
+
+&lt;p&gt;This work is in the "public domain in the United States of America, and possibly other nations. Within the United States, you may freely copy and distribute this work, as no entity (individual or corporate) has a copyright on the body of the work.&lt;/p&gt;
+
+&lt;p&gt;Scholars believe, and we concur, that this work is important enough to be preserved, reproduced, and made generally available to the public. We appreciate your support of the preservation process, and thank you for being an important part of keeping this knowledge alive and relevant.&lt;/p&gt;</dc:description>
+        <dc:publisher>LEGARE STREET Press</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">74796f36-0411-41a0-8f95-7568badbcbd1</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">UQRW0AEACAAJ</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9781019983911</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Music</dc:subject>
+        <dc:subject>General</dc:subject>
+        <dc:subject>Wagner</dc:subject>
+        <dc:subject>Genres &amp; Styles</dc:subject>
+        <dc:subject>Classical</dc:subject>
+        <dc:subject>Biography &amp; Autobiography</dc:subject>
+        <dc:subject>Composers -- Germany -- Biography</dc:subject>
+        <dc:subject>Richard</dc:subject>
+        <dc:subject>1813-1883</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Richard Wagner&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-12-05T16:36:22.767047+00:00"/>
+        <meta name="calibre:title_sort" content="My Life: Authorized Translation From the German; Volume 1"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

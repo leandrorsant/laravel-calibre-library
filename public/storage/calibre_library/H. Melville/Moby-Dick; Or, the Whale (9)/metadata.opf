@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">9</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">9ee44fc1-0af0-437e-9df0-48c6cfb64e7f</dc:identifier>
+        <dc:title>Moby-Dick; Or, the Whale</dc:title>
+        <dc:creator opf:file-as="Melville, H." opf:role="aut">H. Melville</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.42.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-01-04T16:42:10.853711+00:00</dc:date>
+        <dc:description>&lt;p&gt;Call me Ishmael. So begins the famous opening chapter of Moby-Dick; or, The Whale. Young sailor Ishmael is hired as a crew member of a whaler named Pequod, captained by a man named Ahab. In between lengthy chapters on whale biology and descriptions of the crew and the whaling trade, readers are slowly introduced to a captivating tale. Ahab is out for revenge on the great white whale that stole his leg, leaving him with a whale-bone prosthesis and a withering hatred for the beast. Known as Moby Dick, the whale is infamous for his encounters and escapes with whale ships, and Ahab offers a gold coin, nailed to the Pequod's mast, as a reward for whoever sights him first. Beginning on a cold Christmas morning, the crew embarks on a journey to find the whale and make their fortunes. An exciting staple of American literature, Moby-Dick is a must-read for anyone interested in the classics.   Herman Melville was inspired to write Moby Dick by the 1821 biographical account Narrative of the Most Extraordinary and Distressing Shipwreck of the Whale-ship Essex (Cosimo Classics, 2015), which in turn inspired the 2000 novel and 2015 movie, In the Heart of the Sea.  HERMAN MELVILLE (1819-1891) was an American novelist. Born in New York, Melville lived and worked in the city for many years before moving with his family to Massachusetts, where he enjoyed a short friendship with author Nathaniel Hawthorne. Many of Melville's books are inspired by his own experiences; he sailed on merchant and whaling ships, spent time on the Marquesas Islands with natives, and spent time in England, Egypt, and Palestine. Melville even wrote poetry reflecting on the American Civil War. He eventually retired in New York City, where he was buried in the Bronx, relatively unknown. Melville was the author of 19 books of fiction, nonfiction, and poetry, including *Typee* (1846), Moby-Dick (1851), "Bartelby the Scrivener" (1853), "Benito Cerino" (1855), Battle-Pieces and Aspects of the War (1866), and Billy Budd, Sailor (1891, unfinished).&lt;/p&gt;</dc:description>
+        <dc:publisher>Рипол Классик</dc:publisher>
+        <dc:identifier opf:scheme="GOOGLE">RFpSDwAAQBAJ</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9781944529000</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Mentally ill -- Fiction</dc:subject>
+        <dc:subject>Fiction</dc:subject>
+        <dc:subject>Whales -- Fiction</dc:subject>
+        <dc:subject>Whaling ships -- Fiction</dc:subject>
+        <dc:subject>Sea stories</dc:subject>
+        <dc:subject>Captain (Fictitious character) -- Fiction</dc:subject>
+        <dc:subject>Adventure stories</dc:subject>
+        <dc:subject>Ahab</dc:subject>
+        <dc:subject>Ship captains -- Fiction</dc:subject>
+        <dc:subject>Psychological fiction</dc:subject>
+        <dc:subject>Whaling -- Fiction</dc:subject>
+        <dc:subject>Classics</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;H. Melville&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-12-05T16:36:21.514305+00:00"/>
+        <meta name="calibre:title_sort" content="Moby-Dick; Or, the Whale"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

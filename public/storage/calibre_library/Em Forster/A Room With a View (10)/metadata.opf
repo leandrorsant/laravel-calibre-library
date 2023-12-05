@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">10</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f27300b9-e9c7-4188-9085-7c5a5b9fc879</dc:identifier>
+        <dc:title>A Room With a View</dc:title>
+        <dc:creator opf:file-as="Forster, Em" opf:role="aut">Em Forster</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.42.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-12-29T16:41:47.022132+00:00</dc:date>
+        <dc:description>&lt;p&gt;This is a tale of repression, prejudice, and above all, romance between two unlikely individuals: the sophisticated, upper-class Lucy Honeychurch and the boyish George Emerson. Taking place during the Edwardian era, the story follows Lucy as she vacations in Italy, dying to get away from her restrictive life and family in Britain. She encounters George at her hotel and is immediately fascinated by him, for he seems the exact opposite of her family: unpretentious, unconventional and full of life. But she knows her family would never approve of him. Returning to Britain, she finds herself torn between society’s expectations of her and what she secretly wants for herself.&lt;/p&gt;</dc:description>
+        <dc:publisher>Amaryllis - an imprint of Manjul Publishing House</dc:publisher>
+        <dc:identifier opf:scheme="URI">http://www.gutenberg.org/2641</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">xoSkEAAAQBAJ</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9789391242176</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Fiction</dc:subject>
+        <dc:subject>British -- Italy -- Fiction</dc:subject>
+        <dc:subject>Young women -- Fiction</dc:subject>
+        <dc:subject>England -- Fiction</dc:subject>
+        <dc:subject>Florence (Italy) -- Fiction</dc:subject>
+        <dc:subject>Humorous stories</dc:subject>
+        <dc:subject>Classics</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Em Forster&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-12-05T16:36:21.800302+00:00"/>
+        <meta name="calibre:title_sort" content="Room With a View, A"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

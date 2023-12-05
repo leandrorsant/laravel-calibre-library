@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">301b216a-bd81-48ea-bd8a-54465818d891</dc:identifier>
+        <dc:title>The NURSERY ALICE - a Children's Edition of Alice's Adventures in Wonderland</dc:title>
+        <dc:creator opf:file-as="Carroll, Lewis" opf:role="aut">Lewis Carroll</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.42.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-03-11T16:45:33.490810+00:00</dc:date>
+        <dc:description>&lt;p&gt;"The Nursery Alice" is a shortened and simplified version of "Alice's Adventures in Wonderland" also created by Lewis Carroll in 1889/90 especially for children aged “0 to 5”. This edition was created twenty-five years after the original full-length work was published. Adapted by the author himself for children this is in effect an easy-to-read edition for preschool children.&lt;/p&gt;
+
+&lt;p&gt;It includes 20 of John Tenniel's illustrations from the original book, redrawn, enlarged, coloured – and, in some cases, revised – by Tenniel himselfThe work is not merely a shortened and simplified version, along the lines of “Alice's Adventures in Wonderland” retold in words of one syllable. It is written as though the story is being read aloud by someone who is also talking to the child/listener, with many interpolations by the author, pointing out details in the pictures and asking questions, such as "Which would you have liked the best, do you think, to be a little tiny Alice, no larger than a kitten, or a great tall Alice, with your head always knocking against the ceiling?" There are also additions, such as an anecdote about a puppy called Dash, and an explanation of the word "foxglove".==============KEYWORDS/TAGS: Alice in Wonderland, adventures, white rabbit, mad hatter, tea party, queen of hearts, knave of hearts, dream, fantasy, unreal, nursery Alice, mothers with children, parents with children, fathers with children, grandparents, accident, accused, afraid, alone, amusement, angel-hands, angry, animal, Ann, archers, arm-chair, asleep, babies, Baby, balls, Bantam-Cock, beautiful, Bill, birthday, present, birthday treat, Bliss, bread and butter, breast, buns, calf’s head, Caterpillar, cathedral, Caucus Race, Cheshire Cat, Child, children, chimney, Christmas tide, Churchpocket, corners, Croquet, crokay, dance, Dash, deedy, Dodo, dogs eared, doll, Dormouse, Duchess, Duck, Eaglet, Easter, Fairies, folklore, myth and legend, Ferret, fire place, Flamingo, Folk’s Gloves, fountain, Foxes, Fox Glove, foxglove, gay, glee, glitter, glorious, God, good-bye, goodbye, grand, Grew, grey headed, grinning, Gryphon, Hare, Hatter, Heaven, Hedgehog, hedge-hog, Hippopotamus, hookah, Judge, Jury, King, kiss, Knave, Jack of Hearts, laughter, Lizard, Lobster-Quadrille, Lory, Love, Mad, magic, March, Mary, Mists, mouse hole, naked, Nursery, oatmeal porridge, Pig baby, pocket, handkerchief, poem, prisoner, Puppy, Queen, Prince, Rabbit, rabbit hole, racecourse, robber, roses, rose tree, rumpled, saucer, serpent, shillings, Shower, Song, Squirrel, Storkling, Sun, sweet, swimming, tarts, Tea, teacups, thimble, toy cupboard, ugly, undraw, vain, vanity, vanish, waggon, waistcoat, White rabbit, wicked, Wonderland, wooden, wriggle, young, fables, bedtime stories, children’s stories,&lt;/p&gt;</dc:description>
+        <dc:publisher>Abela Publishing Ltd</dc:publisher>
+        <dc:identifier opf:scheme="GOOGLE">kQrWDwAAQBAJ</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9788834181317</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Action &amp; Adventure</dc:subject>
+        <dc:subject>Fantasy fiction</dc:subject>
+        <dc:subject>Juvenile Fiction</dc:subject>
+        <dc:subject>Fiction</dc:subject>
+        <dc:subject>Imaginary places -- Juvenile fiction</dc:subject>
+        <dc:subject>Fantasy</dc:subject>
+        <dc:subject>General</dc:subject>
+        <dc:subject>Alice (Fictitious character from Carroll) -- Juvenile fiction</dc:subject>
+        <dc:subject>Young Adult Fiction</dc:subject>
+        <dc:subject>Fantasy &amp; Magic</dc:subject>
+        <dc:subject>Children's stories</dc:subject>
+        <dc:subject>Fairy Tales; Folk Tales; Legends &amp; Mythology</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Lewis Carroll&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-12-05T16:36:18.900456+00:00"/>
+        <meta name="calibre:title_sort" content="NURSERY ALICE - a Children's Edition of Alice's Adventures in Wonderland, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

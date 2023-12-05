@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">18</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">48e6c8cf-20d4-44f3-83cd-5076471e6ca9</dc:identifier>
+        <dc:title>Middlemarch</dc:title>
+        <dc:creator opf:file-as="Eliot, George &amp; Prose, Francine" opf:role="aut">George Eliot</dc:creator>
+        <dc:creator opf:file-as="Eliot, George &amp; Prose, Francine" opf:role="aut">Francine Prose</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.42.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2015-11-17T16:37:52.697439+00:00</dc:date>
+        <dc:description>&lt;p&gt;George Eliot’s beloved classic novel—hailed by Virginia Woolf as “masterful”—follows the life, loves, foibles, and politics of the residents of a fictional English town set amid the social unrest of the Industrial Revolution. This Harper Perennial Deluxe Edition includes an introduction by award-winning author Francine Prose.&lt;/p&gt;
+
+&lt;p&gt;Dorothea Brooke married Edward Casaubon—a clergyman and scholar some years her senior—naively hoping their union would be a true meeting of the minds. Trapped in a lonely marriage to a tyrannical man, she finds companionship with Edward’s cousin, but her overtures risk her spotless reputation and jeopardize her future.&lt;/p&gt;
+
+&lt;p&gt;Young doctor Tertius Lydgate comes to Middlemarch full of progressive ideas, eager to volunteer his skill at the local hospital. Through his connections there he meets the mayor’s beautiful daughter, Rosamond Vincy, and marries her, only to face financial ruin at the hands of her materialism and overwhelming vanity.&lt;/p&gt;
+
+&lt;p&gt;Rosamond’s brother, Fred, is destined for the Church to improve his family’s class standing, but his childhood sweetheart, Mary Garth, refuses to marry him unless he pursues a more suitable career. Forced by fate into uncertain financial circumstances, Fred must question his choices and desires if he hopes to earn Mary’s respect.&lt;/p&gt;
+
+&lt;p&gt;God-fearing and esteemed, Nicholas Bulstrode is a good man and trustworthy banker—or so it appears until an old enemy comes to town, intent on revealing Bulstrode’s shady past dealings. Terrified of being exposed as a hypocrite, he takes matters into his own hands, each desperate act spiraling him further into disgrace and corruption.&lt;/p&gt;
+
+&lt;p&gt;A masterwork of fiction, Middlemarch traces these four lives in a plot that illuminates the social fabric of mid-nineteenth-century England. Looming above the landscape of Victorian literature, Eliot’s beloved novel explores the perennial struggle between individual and society, integrity and temptation, and is as timely today as when it was first published.&lt;/p&gt;</dc:description>
+        <dc:publisher>HarperCollins</dc:publisher>
+        <dc:identifier opf:scheme="GOOGLE">v6ypCgAAQBAJ</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9780062467379</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Literary</dc:subject>
+        <dc:subject>City and town life -- Fiction</dc:subject>
+        <dc:subject>Domestic fiction</dc:subject>
+        <dc:subject>Fiction</dc:subject>
+        <dc:subject>Young women -- Fiction</dc:subject>
+        <dc:subject>England -- Fiction</dc:subject>
+        <dc:subject>Small Town &amp; Rural</dc:subject>
+        <dc:subject>Didactic fiction</dc:subject>
+        <dc:subject>Bildungsromans</dc:subject>
+        <dc:subject>Married people -- Fiction</dc:subject>
+        <dc:subject>Love stories</dc:subject>
+        <dc:subject>Classics</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;George Eliot&quot;: &quot;&quot;, &quot;Francine Prose&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2023-12-05T16:36:23.919067+00:00"/>
+        <meta name="calibre:title_sort" content="Middlemarch"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>
