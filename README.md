@@ -22,3 +22,10 @@ DB_CONNECTION=sqlite
 DB_DATABASE=<full path to your calibre library's "metadata.db">
 ```
 You can make copy of this projects .env.example file, saving it as .env, and edit the variables accordingly.
+
+
+### Screenshots
+<img src="./screenshots/laravel-calibre-library-screenshot01.png"/>
+<img src="./screenshots/laravel-calibre-library-screenshot02.png"/>
+<img src="./screenshots/laravel-calibre-library-screenshot03.png"/>
+<img src="./screenshots/laravel-calibre-library-screenshot04.png"/>
